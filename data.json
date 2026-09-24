@@ -1,0 +1,158 @@
+{
+    "information": {
+        "firstName": "Dat",
+        "lastName": "Vu Thanh",
+        "indicator": "·",
+        "country": "Vietnam",
+        "city": "Saigon",
+        "phoneNumber": "(+84) 94-347-6316",
+        "email": "dev.thanhdat@gmail.com",
+        "profileImageUrl": "https://raw.githubusercontent.com/vuthanhdatdev/vuthanhdatdev/main/profile.jpg",
+        "pdfUrl": "https://raw.githubusercontent.com/vuthanhdatdev/vuthanhdatdev/main/MyCV.pdf",
+        "githubUrl": "https://github.com/vuthanhdatdev",
+        "shortIntroduction": "I am passionate software wizard with 10+ years experience of Java, AWS, NodeJS",
+        "linkedInUrl": "https://github.com/vuthanhdatdev",
+        "twitterUrl": "https://twitter.com/vuthanhdat_dev",
+        "facebookUrl": "https://www.facebook.com/vuthanhdat.developer",
+        "shortBriefLife": [
+            "Apart from being a developer, I enjoy most of my time being outdoors. In the vacations, I am an motor rider to explore the worlds(and all the states of Vietnam). During the free time in my life, I enjoy mechanical keyboard building.",
+            "When forced indoors, I do practice with some kind of music instruments, I am an part-time guitarist, and I spend a large amount of my free time exploring the latest technology advancements in the full-stack development world."
+        ]
+    },
+    "educations": [
+        {
+            "startFrom": "September 2012",
+            "endFrom": "June 2016",
+            "school": "Lotus University",
+            "gpa": "3.0",
+            "degreeType": "Bachelor",
+            "major": "Software Engineering"
+        }
+    ],
+    "workHistories": [
+        {
+            "companyName": "Mantel",
+            "detail": "",
+            "startFrom": "May 2025",
+            "endFrom": "",
+            "position": "Senior Software Engineer",
+            "techStack": ["Java", "Spring Boot", "Kafka", "MongoDB", "AWS", "Docker", "Kubernetes"]
+        },
+        {
+            "companyName": "LeapXpert",
+            "detail": "Leading backend development of a regulated communications platform used by financial institutions. Architected and maintained high-throughput microservices handling millions of messages daily.",
+            "startFrom": "December 2022",
+            "endFrom": "April 2025",
+            "position": "Senior Software Engineer",
+            "techStack": ["Java", "Spring Boot", "Kafka", "MongoDB", "AWS", "Docker", "Kubernetes"]
+        },
+        {
+            "companyName": "PayOK / Positive Thinking Company",
+            "detail": "Built and maintained payment gateway integrations and financial transaction services. Collaborated in cross-functional agile teams across multiple time zones.",
+            "startFrom": "March 2021",
+            "endFrom": "December 2022",
+            "position": "Senior Software Engineer",
+            "techStack": ["Java", "Spring Boot", "Node.js", "PostgreSQL", "AWS", "REST APIs"]
+        },
+        {
+            "companyName": "B13 Technology",
+            "detail": "Delivered freelance full-stack projects for clients ranging from startups to SMEs. Responsible for requirements gathering, architecture, development and deployment.",
+            "startFrom": "February 2019",
+            "endFrom": "",
+            "position": "Freelance Developer",
+            "techStack": ["Node.js", "React", "MongoDB", "AWS"]
+        },
+        {
+            "companyName": "KMS Technology",
+            "detail": "Developed enterprise Java applications for US-based clients. Participated in full software development lifecycle including design, coding, testing and release.",
+            "startFrom": "January 2017",
+            "endFrom": "February 2019",
+            "position": "Software Engineer",
+            "techStack": ["Java", "Spring MVC", "Oracle DB", "Angular", "Jenkins"]
+        },
+        {
+            "companyName": "AdNovum",
+            "detail": "Contributed to a secure e-government platform built for Swiss public sector clients. Focused on backend services and API integrations.",
+            "startFrom": "June 2016",
+            "endFrom": "December 2016",
+            "position": "Software Engineer",
+            "techStack": ["Java", "Spring", "PostgreSQL", "REST APIs"]
+        },
+        {
+            "companyName": "Freelancer",
+            "detail": "Developed custom web and mobile solutions for local businesses and international clients while studying.",
+            "startFrom": "June 2014",
+            "endFrom": "December 2017",
+            "position": "Freelance Developer",
+            "techStack": ["PHP", "JavaScript", "MySQL", "HTML", "CSS"]
+        }
+    ],
+    "certifications": [
+        {
+            "startFrom": "May 2022",
+            "endFrom": "May 2025",
+            "name": "AWS Solution Architect Associate",
+            "providedBy": "Amazon"
+        },
+        {
+            "name": "Oracle Certified Professional, Java SE 8 Programmer",
+            "providedBy": "Oracle"
+        },
+        {
+            "name": "IELTS",
+            "score": "7.0",
+            "startFrom": "August 2018",
+            "endFrom": "August 2020",
+            "providedBy": "British Council"
+        }
+    ],
+    "skills": [
+        { "name": "Java", "level": "Expert" },
+        { "name": "Node.js", "level": "Expert" },
+        { "name": "React", "level": "Expert" },
+        { "name": "Linux", "level": "Expert" },
+        { "name": "Python", "level": "Proficient" },
+        { "name": "AWS", "level": "Proficient" },
+        { "name": "Angular", "level": "Familiar" },
+        { "name": "HTML5", "level": "Familiar" },
+        { "name": "CSS3", "level": "Familiar" }
+    ],
+    "interests": [
+        {
+            "icon": "faCode",
+            "label": "Open Source",
+            "description": "Contributing to open source projects and exploring new technologies in my spare time."
+        },
+        {
+            "icon": "faMotorcycle",
+            "label": "Motor Riding",
+            "description": "Exploring Vietnam and the world on two wheels during vacations."
+        },
+        {
+            "icon": "faKeyboard",
+            "label": "Mechanical Keyboards",
+            "description": "Building and customising mechanical keyboards as a hands-on hobby."
+        },
+        {
+            "icon": "faGuitar",
+            "label": "Guitar",
+            "description": "Part-time guitarist — playing helps me unwind and stay creative."
+        },
+        {
+            "icon": "faBookOpen",
+            "label": "Reading",
+            "description": "Tech blogs, software engineering books and self-development literature."
+        },
+        {
+            "icon": "faFilm",
+            "label": "Films",
+            "description": "Science fiction and documentary films that spark curiosity."
+        }
+    ],
+    "workflows": [
+        { "label": "Database Design",           "description": "Schema design, normalization, query optimization" },
+        { "label": "Software Architecture",     "description": "Microservices, event-driven, layered architecture" },
+        { "label": "Cross Functional Teams",    "description": "Collaboration across design, product & engineering" },
+        { "label": "Agile Development & Scrum", "description": "Sprint planning, retrospectives, daily standups" }
+    ]
+}
